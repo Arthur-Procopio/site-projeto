@@ -9,6 +9,8 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #f0f4f8;
     color: #000;
+    max-width: 100%;
+    overflow-x: hidden;
     transition: background-color 0.3s, color 0.3s;
 }
 
@@ -32,6 +34,7 @@ header {
     left: 0;
     right: 0;
     width: 100%;
+    max-width: 100%;
     z-index: 100;
 }
 
@@ -202,6 +205,10 @@ footer p {
 .integrantes {
     grid-template-columns: 1fr 1fr;
     padding-top: 60px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    justify-items: center;
 }
 
 /* Container dos integrantes */
