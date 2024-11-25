@@ -48,11 +48,5 @@ O site está hospedado em:
 2. Faça suas alterações em uma branch separada.
 3. Envie um pull request para revisão.
 
----
 
-### Equipe
-
-- [Nome 1] - Competências e experiências
-- [Nome 2] - Competências e experiências
-- [Nome 3] - Competências e experiências
 
