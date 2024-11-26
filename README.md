@@ -37,8 +37,7 @@ As páginas possuem, ao menos, três manipulações com JavaScript, incluindo:
 
 ## Como Acessar
 
-O site está hospedado em:
-[Link do GitHub Pages ou Vercel]
+O site está hospedado em: https://arthur-procopio.github.io/site-projeto/index.html
 
 ---
 
